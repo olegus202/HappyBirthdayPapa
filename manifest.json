@@ -1,0 +1,17 @@
+{
+  "name": "Квест ко дню рождения — 71",
+  "short_name": "Квест 71",
+  "description": "Приключенческий квест ко дню рождения: 6 мини-игр и поздравление",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07040f",
+  "theme_color": "#0a0618",
+  "lang": "ru",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
